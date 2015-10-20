@@ -2,7 +2,7 @@ Open Geospatial Consortium, Inc.
 
 License Agreement
 
-BY DOWNLOADING THE DOCUMENTS IN THIS REPOSITORY, YOU ARE CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, CLICK THE "DO NOT ACCEPT" BUTTON AND DO NOT DOWNLOAD THIS INTELLECTUAL PROPERTY.
+BY DOWNLOADING THE DOCUMENTS IN THIS REPOSITORY, YOU ARE CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, DO NOT DOWNLOAD THIS INTELLECTUAL PROPERTY.
 
 Readers of this document are requested to submit to Open Geospatial Consortium, Inc. ("Licensor"), with their comments, notification of any relevant patent rights or other intellectual property rights of which they may be aware which might be infringed by any use of the copyrighted material that follows (the "Intellectual Property"), as appropriate, and to provide supporting documentation.
 
