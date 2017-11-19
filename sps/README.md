@@ -1,0 +1,4 @@
+# Sensor Planning Service (SPS)
+
+
+The OpenGIS® Sensor Planning Service Interface Standard (SPS) defines interfaces for queries that provide information about the capabilities of a sensor and how to task the sensor. The standard is designed to support queries that have the following purposes: to determine the feasibility of a sensor planning request; to submit and reserve/commit such a request; to inquire about the status of such a request; to update or cancel such a request; and to request information about other OGC Web services that provide access to the data collected by the requested task. This is one of the OGC Sensor Web Enablement (SWE) suite of standards.
